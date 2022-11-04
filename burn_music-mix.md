@@ -53,7 +53,7 @@
 * `Datei // Importieren von // Cue Sheet...`
 * Cue Sheet Datei wählen und laden
 * Durch Doppelklick auf die Tracks die Titelanfänge prüfen
-* `Zusammenstellung brennen`
-* `CD-Text` deaktivieren
-* `Keine Pausen zwischen den Titeln` auswählen
-* Mix-CD brennen
+* Zusammenstellung brennen,
+  * dabei `CD-Text` deaktivieren
+  * und `Keine Pausen zwischen den Titeln` auswählen
+
